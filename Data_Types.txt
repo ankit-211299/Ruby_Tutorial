@@ -1,0 +1,6 @@
+Data Types in Ruby:-
+1. Strings
+2. Integers
+3. Floating Points
+4. Boolean
+5. nil - nothing/empty but still a value.
