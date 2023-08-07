@@ -25,3 +25,11 @@ Math function:
 
 Arrays in Ruby:
 
+arr = Array[.,.,.,.,]; #syntax
+we can store string,number,boolean in an array.
+we can mix store in the array
+
+1. arr.length() - gives the length of the array
+2. arr.include? "element" - gives booblean output according to the presence of element in the array
+3. arr.reverse() - reverse the order of the element in the array
+4. arr.sort() - to sort the array alphabetically
