@@ -22,3 +22,6 @@ Math function:
 1. Math.pow()
 2. Math.sqrt()
 3. Math.log()
+
+Arrays in Ruby:
+
