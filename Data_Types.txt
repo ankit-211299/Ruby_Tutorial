@@ -4,3 +4,21 @@ Data Types in Ruby:-
 3. Floating Points
 4. Boolean
 5. nil - nothing/empty but still a value.
+
+Numbers In Ruby:
+
+1. Add - +
+2. Sub - -
+3. Mult - *
+4. Div - /
+5. Pow - ** or ^
+
+.to_s - converts number to Strings
+1) .abs() - gives absolute value
+2) .ceil() - upper value round off
+3) .floor() - lower value round off
+
+Math function:
+1. Math.pow()
+2. Math.sqrt()
+3. Math.log()
