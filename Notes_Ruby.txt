@@ -50,3 +50,8 @@ to execute the method we need to call it hence method calling
 def method_name(params...)
    code...
 end
+
+Return statement can be used to return multiple elements
+as it returns an array.
+
+If-Statements in Ruby:
