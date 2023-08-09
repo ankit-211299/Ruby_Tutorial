@@ -55,3 +55,21 @@ Return statement can be used to return multiple elements
 as it returns an array.
 
 If-Statements in Ruby:
+
+if (Expressions)
+elsif (Expressions)
+else
+end
+
+Case Expressions : 
+
+case (Variables)
+when ""
+   code ...
+when ""
+   code ...
+else
+   code ...
+end
+
+WHILE LOOPS :
