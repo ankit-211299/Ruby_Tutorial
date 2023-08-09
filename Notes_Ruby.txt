@@ -73,3 +73,11 @@ else
 end
 
 WHILE LOOPS :
+
+while condition
+   code
+end
+
+FOR LOOP : 
+refer for_loop.rb for reference.
+

@@ -11,7 +11,7 @@ Blocks, Procs & Lambda
 Strings -
 Arrays -
 Hashes -
-Date & Time
+Date & Time - 
 Ranges
 Iterators
 File I/O
