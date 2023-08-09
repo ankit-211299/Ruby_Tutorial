@@ -4,7 +4,7 @@ base_num = gets.chomp().to_f
 puts "Enter the power number - "
 pow_num = gets.chomp().to_i
 
-def pow (base, pow)
+def pow(base, pow)
     result = 1
 
     pow.times do |ele|
