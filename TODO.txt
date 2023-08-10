@@ -5,7 +5,7 @@ Variables, Constants and Literals -
 Operators -
 Comments -
 if...else, case, unless - 
-Loops
+Loops -
 Methods -
 Blocks, Procs & Lambda
 Strings -

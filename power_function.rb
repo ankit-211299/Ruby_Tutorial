@@ -7,7 +7,7 @@ pow_num = gets.chomp().to_i
 def pow(base, pow)
     result = 1
 
-    pow.times do |ele|
+    pow.times do
         result = result*base
     end
 
