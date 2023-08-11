@@ -1,6 +1,6 @@
 Overview -
 Syntax -
-Classes and Objects
+Classes and Objects - 
 Variables, Constants and Literals - 
 Operators -
 Comments -
@@ -14,11 +14,11 @@ Hashes -
 Date & Time - 
 Ranges
 Iterators
-File I/O
-Exceptions
+File I/O -
+Exceptions - 
 Regular Expressions
 Access Control
-Inheritance
+Inheritance - 
 Modules Mixins
 Mutable and Immutable Objects
 Overriding Methods
