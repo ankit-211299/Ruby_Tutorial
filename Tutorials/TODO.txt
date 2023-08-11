@@ -21,7 +21,7 @@ Access Control
 Inheritance - 
 Modules Mixins
 Mutable and Immutable Objects
-Overriding Methods
+Overriding Methods - 
 Overloading Methods
 Ruby Syntactic Sugar
 self
