@@ -17,6 +17,7 @@ Numbers In Ruby:
 1) .abs() - gives absolute value
 2) .ceil() - upper value round off
 3) .floor() - lower value round off
+4) .round(n) - n decides the number of decimal places
 
 Math function:
 1. Math.pow()
