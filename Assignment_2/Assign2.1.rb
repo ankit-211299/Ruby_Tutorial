@@ -3,4 +3,8 @@
 =end
 
 puts "Enter n - "
-n = gets.chomp()
+n = gets.chomp().to_i
+
+n.times do |ele|
+    puts (ele*2)+1
+end
