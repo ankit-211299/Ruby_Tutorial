@@ -1,0 +1,25 @@
+{
+    "T-shirt": [{"brand":"Capezo",  "color":"red", "value": "#f00", "price":5000},
+    {"brand":"UCB",  "color":"green", "value": "#0f0", "price":2000},
+    {"brand":"American Swan",  "color":"blue", "value": "#00f", "price":1500},
+    {"brand":"VOI",  "color":"cyan", "value": "#0ff", "price":5000},
+    {"brand":"Tom & Tailor",  "color":"magneta", "value": "#f0f", "price":2500},
+    {"brand":"Gas",  "color":"yellow", "value": "#ff0", "price":4500},
+    {"brand":"Lee",  "color":"black", "value": "#000", "price":3500}],
+
+    "Trouser": [{"brand":"Capezo",  "color":"red", "value": "#f00", "price":6500},
+    {"brand":"UCB",  "color":"green", "value": "#0f0", "price":7800},
+    {"brand":"American Swan",  "color":"blue", "value": "#00f", "price":9800},
+    {"brand":"VOI",  "color":"cyan", "value": "#0ff", "price":3500},
+    {"brand":"Tom & Tailor",  "color":"magneta", "value": "#f0f", "price":4500},
+    {"brand":"Gas",  "color":"yellow", "value": "#ff0", "price":7500},
+    {"brand":"Lee",  "color":"black", "value": "#000", "price":2500}],
+
+    "Offer": [{"brand":"Capezo", "offer":"50% off"},
+    {"brand":"UCB", "offer":"52% off"},
+    {"brand":"American Swan", "offer":"50% off"},
+    {"brand":"VOI", "offer":"35% off"},
+    {"brand":"Tom & Tailor", "offer":"32% off"},
+    {"brand":"Gas", "offer":"41% off"},
+    {"brand":"Lee", "offer":"14% off"}]
+}
